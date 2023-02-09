@@ -32,7 +32,7 @@ jupyter notebook
 - Some notebooks may require additional data files which are not included in this repository.
 - Be sure to read the markdown cells at the start of each notebook for any additional setup instructions or explanations of the code.
 
-## Acknowledgements
+## Acknowledgements 
 
 - Data source: [Kaggle](https://www.kaggle.com/)
 - Inspiration: [Towards Data Science](https://towardsdatascience.com/)
